@@ -9,9 +9,8 @@ L'objectif est de structurer un savoir technique actionnable pour des projets de
 ## 📂 Organisation
 Les articles sont classés par famille de substances et thématiques industrielles :
 * **Métaux Précieux** : Or, Argent, PGM.
-* **Métaux de Base** : Cuivre, Fer, Zinc...
-* **Minéraux Critiques** : Lithium, Cobalt, Terres Rares.
-* **Recyclage** : Valorisation des rejets et économie circulaire.
+* **Métaux Critiques** : Cuivre,Zinc Plomb,Lithium, Cobalt, Terres Rares, etc
+* **Recyclage et déchets** : Valorisation des rejets et économie circulaire.
 
 ## 🔍 Comment chercher ?
 Utilisez la barre de recherche GitHub (touche `T` sur votre clavier) pour filtrer par mot-clé (ex: "Flottation", "Broyage", "Gravimétrie").
