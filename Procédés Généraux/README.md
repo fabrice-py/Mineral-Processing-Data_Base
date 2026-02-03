@@ -1,1 +1,1 @@
-# Comminution, échantillonnage, contrôle de procédé
+# Comminution, échantillonnage, contrôle de procédé, Hydrométallurgie générale, Automatisation
