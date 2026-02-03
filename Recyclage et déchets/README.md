@@ -1,1 +1,1 @@
-# Traitement des scories, recyclage de batteries, économie circulaire
+# Traitement des scories, recyclage de batteries et économie circulaire
