@@ -6,7 +6,7 @@ MOTS-CLES : Lithium, Spodumene, Selectivité, Flottation, Chimie de surface, Ca-
 depressant, Quartz
 
 # Résumé & Insights
-> **Valeur ajoutée :** Vu que le Quartz est un mineral de gangue assez commun dans les systemes de fottation, les résultats de cette étude pourraient etre appliqués dans d'autres systemes de flottation
+> **Valeur ajoutée :** Vu que le Quartz est un mineral de gangue assez commun dans les systemes de fottation et les résultats de cette étude pourraient etre appliqués dans d'autres systemes de flottation
 
 ## 📝 Notes Techniques
 * **Point 1 :** L'intérraction du complexe Ca-Oléate(Ca/OL) avec des porteurs de spodumène et du Calcium activé avec les mineraux de Quartz.
